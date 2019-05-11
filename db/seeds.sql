@@ -1,7 +1,7 @@
 INSERT INTO burgers
     (burger_name, devoured)
 VALUES
-    ("big mac", true);
+    ("big mac", FALSE);
 INSERT INTO burgers
     (burger_name, devoured)
 VALUES
@@ -9,6 +9,11 @@ VALUES
 INSERT INTO burgers
     (burger_name, devoured)
 VALUES
-    ("big boy", true);
+    ("big boy", false);
+
+INSERT INTO burgers
+    (burger_name, devoured)
+VALUES
+    ("quarter pounder", false);
 
 
