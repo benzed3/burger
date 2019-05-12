@@ -1,3 +1,23 @@
 body {
     background: yellow;
 }
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Righteous', cursive;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+img {
+    width: 580px;
+    height: 320px;
+    position: relative;
+    left: 460px;
+}
